@@ -1,0 +1,9 @@
+#content_wrapper { width: 500px; height: 720px; background-color: white; margin: 40px auto; position: relative; box-shadow: 0 0 12px gray; overflow: hidden; }
+#clouds_white { position: absolute; top: 90px; left: -40px; z-index: 4; }
+#clouds_dark_blue { position: absolute; top:0; left: -50px; z-index: 3; }
+#clouds_blue { position: absolute; top:0; left: -50px; z-index: 2; }
+#content { position: absolute; left: 40px; top: 300px; width: 400px; font-family: sans-serif; z-index: 10; }
+#content h1 { text-align: center; }
+p { margin: 2px 0 0 0; }
+.credit { margin-top: 20px; }
+.appname { text-align: center; }
